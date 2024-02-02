@@ -1,4 +1,5 @@
 javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0
 
+If you want to stop edit then add another bookmark. (the one below)
 
 javascript:document.body.contentEditable = 'false'; document.designMode='off'; void 0
